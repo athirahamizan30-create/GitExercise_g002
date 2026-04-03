@@ -5,9 +5,5 @@ bye.
 athirah comel.
 nurin and syaira.
 athirah.
-<<<<<<< HEAD
 nurin. 
-=======
-nurin. 
-bla
->>>>>>> main
+
